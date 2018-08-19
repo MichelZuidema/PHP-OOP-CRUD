@@ -2,10 +2,10 @@
 
 class Database {
     /* Database Credentials */
-    private $host = "localhost";
-    private $username = "root";
-    private $password = "";
-    private $db = "php-oop";
+    private $host = "changeme";
+    private $username = "changeme";
+    private $password = "changeme";
+    private $db = "changeme";
     public $connectionString;
 
     /* Connect Function */
